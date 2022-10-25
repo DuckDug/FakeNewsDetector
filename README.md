@@ -1,2 +1,2 @@
 # FakeNewsDetector
-This project is using machine learning algorithms to detect fake news
+This python project will detect fake news and real news. Using sklearn, we build a TfidfVectorizer on our dataset. Then, we initialize a PassiveAggressive Classifier and fit the model. In the end, the accuracy score and the confusion matrix tell us how well our model fares.
